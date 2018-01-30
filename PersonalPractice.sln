@@ -9,6 +9,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice2RPS", "Practice2Si
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice3Encryption", "Practice3Encryption\Practice3Encryption.pyproj", "{659AE902-EC21-4F25-9DA3-E8F36ED886C5}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hangman", "Hangman\Hangman.pyproj", "{DDF396C5-D28F-4B59-BF14-5CB82E49A450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{D60DAC65-77AC-4831-9CEA-6C64DAA044A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{659AE902-EC21-4F25-9DA3-E8F36ED886C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{659AE902-EC21-4F25-9DA3-E8F36ED886C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF396C5-D28F-4B59-BF14-5CB82E49A450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF396C5-D28F-4B59-BF14-5CB82E49A450}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
