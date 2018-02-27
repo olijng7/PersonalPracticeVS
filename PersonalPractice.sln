@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2024
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice1", "Practice1\Practice1.pyproj", "{CB4DCCAF-F3D5-4B4E-B98B-B61D76997C02}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practice3Encryption", "Practice3Encryption\Practice3Encryption.pyproj", "{659AE902-EC21-4F25-9DA3-E8F36ED886C5}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hangman", "Hangman\Hangman.pyproj", "{DDF396C5-D28F-4B59-BF14-5CB82E49A450}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "C200MidtermPractice", "C200MidtermPractice\C200MidtermPractice.pyproj", "{582BB028-2712-4B4A-93C0-25EAF4C00D12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,8 @@ Global
 		{659AE902-EC21-4F25-9DA3-E8F36ED886C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDF396C5-D28F-4B59-BF14-5CB82E49A450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DDF396C5-D28F-4B59-BF14-5CB82E49A450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582BB028-2712-4B4A-93C0-25EAF4C00D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582BB028-2712-4B4A-93C0-25EAF4C00D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
